@@ -1,7 +1,16 @@
 {
   "header-main": "Главная страница",
-  "header-attractions": "Достопримечательности",
   "header-project": "О проекте",
+  "header-team": "Команда проекта",
+  "header-sources": "Источники",
+  "header-results": "Результаты",
+
+  "sources-1": "Источник 1",
+  "sources-2": "Источник 2",
+  "sources-3": "Источник 3",
+  "sources-text-1": "",
+  "sources-text-2": "",
+  "sources-text-3": "",
 
   "menu-depot": "Депо",
   "menu-houses": "Дома",
