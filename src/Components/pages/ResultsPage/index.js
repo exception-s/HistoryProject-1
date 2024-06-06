@@ -39,7 +39,7 @@ const Model = ({ modelUrl }) => {
 
 export default function ResultsPage() {
     const { t } = useTranslation();
-    return (                // TODO 
+    return (
         <div className={'container mx-auto pt-[20px]'}>
             <div className={'pb-[20px]'}>
                 <h2 className={'text-4xl pb-[20px]'}>{t('header-results')}</h2>
